@@ -1,0 +1,4 @@
+WARNING: html_static_path entry '_static' does not exist
+D:\doc\mydoc_Program\source\index.rst:15: WARNING: toctree contains reference to nonexisting document 'Work/index'
+D:\doc\mydoc_Program\source\Program\12PowerShell.rst:7: WARNING: Program/PowerShell/cmd is already assigned section numbers (nested numbered toctree?)
+D:\doc\mydoc_Program\source\Program\Shell\0010base.rst:261: WARNING: undefined label: 'sys-path-change'
